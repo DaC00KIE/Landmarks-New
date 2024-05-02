@@ -41,6 +41,7 @@
 		9223A1FD2BE43D5500E46D28 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9223A1FC2BE43D5500E46D28 /* ProfileHost.swift */; };
 		9223A1FF2BE43E2300E46D28 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9223A1FE2BE43E2300E46D28 /* ProfileSummary.swift */; };
 		9223A2012BE43F3400E46D28 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9223A2002BE43F3400E46D28 /* HikeBadge.swift */; };
+		926032372BE4442400500609 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 926032362BE4442400500609 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +99,7 @@
 		9223A1FC2BE43D5500E46D28 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		9223A1FE2BE43E2300E46D28 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		9223A2002BE43F3400E46D28 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		926032362BE4442400500609 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -276,6 +278,7 @@
 			children = (
 				9223A1FC2BE43D5500E46D28 /* ProfileHost.swift */,
 				9223A1FE2BE43E2300E46D28 /* ProfileSummary.swift */,
+				926032362BE4442400500609 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -430,6 +433,7 @@
 				9223A1E82BE42D0D00E46D28 /* Hike.swift in Sources */,
 				9223A1E12BE3FFAB00E46D28 /* RotatedBadgeSymbol.swift in Sources */,
 				9223A1DF2BE3FF1A00E46D28 /* BadgeSymbol.swift in Sources */,
+				926032372BE4442400500609 /* ProfileEditor.swift in Sources */,
 				9223A1D42BE3FBD300E46D28 /* LandmarkDetail.swift in Sources */,
 				9223A1F12BE42E2D00E46D28 /* HikeView.swift in Sources */,
 				9223A1D52BE3FBD300E46D28 /* LandmarkRow.swift in Sources */,
